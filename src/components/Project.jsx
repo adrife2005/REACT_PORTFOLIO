@@ -9,7 +9,7 @@ const Project = () => {
           <div className="proyect__grid">
             <div className="proyect__card card">
               <div className="proyect__img">
-                <img src="./public/new2.png" alt="proyect 1" />
+                <img src="./new2.png" alt="proyect 1" />
               </div>
                 <div className="proyect__main">
                   <h3 className="proyect__name">Be Human</h3>

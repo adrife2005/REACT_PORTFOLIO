@@ -11,16 +11,16 @@ const About = () => {
             <p className="about__description"><strong> I have been programming since september 2023 </strong>, on my journey to become a web developer i've been doing some proyects to improve my skills that i've acquired, but now i'm focused on creating web applications that can solve real-world problems and be able to improve the experience of people on the internet🙂.</p>
             <h3 className="about__technologys">My technologies</h3>
               <ul className="about__list">
-                <img width="40" src="./public/atom.png" alt="" />
-                <img width="40" src="./public/js.png" alt="" />
-                <img width="40" src="./public/node-js.png" alt="" />
-                <img width="40" src="./public/database.png" alt="" />
-                <img width="40" src="./public/html-5.png" alt="" />
-                <img width="40" src="./public/css-3.png" alt="" />
+                <img width="40" src="./atom.png" alt="" />
+                <img width="40" src="./js.png" alt="" />
+                <img width="40" src="./node-js.png" alt="" />
+                <img width="40" src="./database.png" alt="" />
+                <img width="40" src="./html-5.png" alt="" />
+                <img width="40" src="./css-3.png" alt="" />
               </ul>
           </div>
           <div className="about__img">
-            <img  src="./public/Me2.0.jpg" alt="Image of a wood" />
+            <img  src="./Me2.0.jpg" alt="Image of a wood" />
           </div>
         </div>
       </section>
